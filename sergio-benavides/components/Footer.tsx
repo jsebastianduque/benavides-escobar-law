@@ -10,7 +10,7 @@ export default function Footer() {
       <div className="container mx-auto px-6">
         <div className="flex flex-col md:flex-row justify-between items-center mb-8">
           <div className="flex items-center mb-4 md:mb-0">
-            <Image src="/logo.svg" alt="Benavides Escobar Law Logo" width={60} height={60} className="mr-4" />
+            <Image src="/logo.jpg" alt="Benavides Escobar Law Logo" width={60} height={60} className="mr-4" />
             <div>
               <h3 className="text-xl font-semibold">Benavides Escobar Law</h3>
               <p className="text-sm">Protegiendo el medio ambiente con justicia</p>
