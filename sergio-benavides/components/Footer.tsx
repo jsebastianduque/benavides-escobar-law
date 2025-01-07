@@ -34,9 +34,8 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
           <div>
             <h4 className="text-lg font-semibold mb-4">Contacto</h4>
-            <p>Calle ....</p>
-            <p>Teléfono: ...</p>
-            <p>Email: ....</p>
+            <p>Teléfono: +57 3152110849</p>
+            <p>Email: benavidesescobarlaw@gmail.com</p>
           </div>
           <div>
             <h4 className="text-lg font-semibold mb-4">Servicios</h4>
